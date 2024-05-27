@@ -1,4 +1,4 @@
-# Self-Corrected-MLLM 🤖
+<h1>Self-Corrected-MLLM <img src="imgs/img4.png" alt="Robot" style="width:20px;height:20px;"></h1>
 
 ## Intro
 Official implementation of ['Self-Corrected-Multimodal-Large-Language-Model-for-End-to-End-Robot-Manipulation'](xxx).
