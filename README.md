@@ -33,7 +33,23 @@ Code will coming soon! 😊
 
 
 ## Contributors
-xxx
+<p>
+  <strong>Authors:</strong><br>
+  Jiaming Liu<sup>1</sup>,
+  Chenxuan Li<sup>1<span title="Technical contribution, Corresponding author.">*</span></sup>,
+  Guanqun Wang<sup>1*</sup>,
+  Lily Lee<sup>1</sup>,
+  Kaichen Zhou<sup>1</sup>,<br>
+  <strong>Sixiang Chen<sup>1</sup></strong>,
+  <strong>Chuyan Xiong<sup>1</sup></strong>,
+  <strong>Jiaxin Ge<sup>1</sup></strong>,
+  <strong>Renrui Zhang<sup>1</sup></strong>,
+  <strong>Shanghang Zhang<sup>1</sup><span title="Corresponding author">&#9993;</span></strong>
+  <br>
+  <span><sup>1</sup>National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University</span><br>
+  <a href="mailto:jiamingliu@stu.pku.edu.cn">jiamingliu@stu.pku.edu.cn</a>, <a href="mailto:wgq@pku.edu.cn">wgq@pku.edu.cn</a>, <a href="mailto:shanghang@pku.edu.cn">shanghang@pku.edu.cn</a>
+</p>
+
 
 ## Citation
 If you find our SC-MLLM code and paper useful, hope you can cite our article:
