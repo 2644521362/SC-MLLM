@@ -5,7 +5,7 @@ Official implementation of ['Self-Corrected-Multimodal-Large-Language-Model-for-
 
 This repository introduces **SC-MLLM**, a Self-Corrected Multimodal Large Language Model that not only predicts end-effector poses but also autonomously recognizes and corrects errors in robotic actions. 🔥
 
-<p align="center">                                                                                                                                          <img src="imgs/img2.png"/ width="100%"> <br>
+<p align="center">                                                                                                                                          <img src="imgs/1_1.png"/ width="100%"> <br>
 </p>
 <p>Overview of our self-correction process. 
   <strong>Step 1.</strong> 
