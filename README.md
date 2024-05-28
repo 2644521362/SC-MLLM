@@ -54,6 +54,13 @@ Code will coming soon! 😊
 ## Citation
 If you find our SC-MLLM code and paper useful, hope you can cite our article:
 ```bash
-xxx
+@misc{liu2024selfcorrected,
+      title={Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation}, 
+      author={Jiaming Liu and Chenxuan Li and Guanqun Wang and Lily Lee and Kaichen Zhou and Sixiang Chen and Chuyan Xiong and Jiaxin Ge and Renrui Zhang and Shanghang Zhang},
+      year={2024},
+      eprint={2405.17418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
